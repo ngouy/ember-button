@@ -1,5 +1,10 @@
 # Ember-button
 
+>**note**
+>this is my first addon
+>it's not out yet, it will be as soon as possible
+
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
