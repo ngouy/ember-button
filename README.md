@@ -1,6 +1,6 @@
 # Ember-button
 
->**note**
+>**note**<br>
 >this is my first addon
 >it's not out yet, it will be as soon as possible
 
